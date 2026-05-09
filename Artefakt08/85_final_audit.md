@@ -7,7 +7,7 @@
 
 ## 📊 1. OCENA KOŃCOWA (SECURITY SCORE)
 **WYNIK:** 0/100  
-**STATUS:** 🔴 [REJECTED / NEEDS FIX]
+**STATUS:** 🔴 REJECTED
 
 ---
 
