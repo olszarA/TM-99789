@@ -1,12 +1,12 @@
 # 🏦 RAPORT Z AUDYTU BEZPIECZEŃSTWA: APIDEMOS
-**Data:** [9.05.2026]
-**Audytor:** [Adam Olszar 99789]  
+**Data:** 9.05.2026
+**Audytor:** Adam Olszar 99789
 **Projekt:** Mobilny System Demonstracyjny (Android)
 
 ---
 
 ## 📊 1. OCENA KOŃCOWA (SECURITY SCORE)
-**WYNIK:** [Wpisz wynik z 84_risk_score.txt]/100  
+**WYNIK:** 0/100  
 **STATUS:** 🔴 [REJECTED / NEEDS FIX]
 
 ---
